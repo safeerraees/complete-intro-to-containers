@@ -8,7 +8,7 @@ description: "Containers are simpler than you think they are. Brian lays out an 
 
 Containers are probably simpler than you think they are. Before I took a deep dive into what they are, I was very intimidated by the concept of what containers were. I thought they were for one super-versed in Linux and sysadmin type activties. In reality, the core of what containers are is just a few features of the Linux kernel duct-taped together. Honestly, there's no single concept of a "container": it's just using a few features of Linux together to achieve isolation. That's it.
 
-So how comfortable are you with the command line? This course doesn't assume wizardry with bash or zsh but this probably shouldn't be your first adventure with it. If it is, [check out Jem's course on it][jem]. This course will give you more than we'll need to keep up with this course.
+So how comfortable are you with the command line? This course doesn't assume wizardry with bash or zsh but this probably shouldn't be your first adventure with it. If it is, [check out Jem's course on it][jem]. This course will give you more than what we'll need to keep up with this course.
 
 ## Why Containers
 
